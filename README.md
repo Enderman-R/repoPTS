@@ -1,4 +1,4 @@
-# Repositori untuk PTS
+# Repositori untuk PTS Tim 1
 
 Ini adalah repository untuk pengumpulan tugas RPL.
 
